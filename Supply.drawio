@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-1" value="Tipo de atributos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="770" width="250" height="120" as="geometry" />
+          <mxGeometry x="1110" y="770" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZAHLHnZI5p-Gy-d3-bgA-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-11" value="Atributos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="620" width="250" height="120" as="geometry" />
+          <mxGeometry x="1110" y="620" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZAHLHnZI5p-Gy-d3-bgA-11" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -210,8 +210,8 @@
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="ZAHLHnZI5p-Gy-d3-bgA-5" target="ZAHLHnZI5p-Gy-d3-bgA-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1500" y="870" />
-              <mxPoint x="1500" y="695" />
+              <mxPoint x="1390" y="870" />
+              <mxPoint x="1390" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-37" value="Produto_Atributos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="410" width="250" height="150" as="geometry" />
+          <mxGeometry x="1100" y="410" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZAHLHnZI5p-Gy-d3-bgA-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZAHLHnZI5p-Gy-d3-bgA-37" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
